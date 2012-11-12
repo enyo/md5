@@ -1,0 +1,13 @@
+{
+  "name": "md5",
+  "repo": "enyo/md5",
+  "description": "MD5 algorithm written by Paul Johnston",
+  "version": "0.0.1",
+  "keywords": [ "md5" ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
