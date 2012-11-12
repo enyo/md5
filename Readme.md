@@ -11,6 +11,10 @@
 ```js
 // MD5
 md5 = require('md5'); // Hex
+
+md5sum = md5('content');
+
+
 md5 = require('md5').hex; // Identical
 md5B64 = require('md5').b64; // Base 64
 md5Any = require('md5').any;

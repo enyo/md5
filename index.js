@@ -36,7 +36,7 @@ module.exports.any = any_md5;
 
 module.exports.hmac = hex_hmac_md5;
 module.exports.hmac.hex = hex_hmac_md5;
-module.exports.hmac.b64 = b64_hmac;
+module.exports.hmac.b64 = b64_hmac_md5;
 module.exports.hmac.any = any_hmac_md5;
 
 
